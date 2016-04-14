@@ -1,0 +1,1 @@
+My workthough of problems for "Functional Programming in Scala"
